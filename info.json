@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "SensorDataDisplay",
+            "version": "0.0.1",
+            "description": "Hopefully this will be more simple than a react version of the same thing",
+            "longDescription": "This project should have significantly less dependencies",
+            "githubLink": "https://github.com/michaelpeterswa/SensorDataDisplay",
+            "date": "07.21.2019"
+        }
+    ]
+}
